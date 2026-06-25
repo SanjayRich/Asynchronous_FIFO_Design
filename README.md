@@ -22,5 +22,7 @@ This design uses:
   ![OUTPUT2](IMAGES/waveform_2.png)
   #
   ![OUTPUT3](IMAGES/waveform_3.png)
+  #
+  ![OUTPUT4](IMAGES/waveform_4.png)
   
   
