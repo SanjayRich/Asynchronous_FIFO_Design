@@ -12,3 +12,8 @@ This design uses:
 - Dual port RAM for simultaneous read and write
 
   ## Architecture
+  ![Async FIFO Architecture](IMAGES/Architecture.png)
+
+  ## OUTPUT
+
+  
