@@ -15,5 +15,12 @@ This design uses:
   ![Async FIFO Architecture](IMAGES/Architecture.png)
 
   ## OUTPUT
-
+  ![OUTPUT](IMAGES/Output.png)
+  ### WAVEFORM
+  ![OUTPUT1](IMAGES/waveform_1.png)
+  #
+  ![OUTPUT2](IMAGES/waveform_2.png)
+  #
+  ![OUTPUT3](IMAGES/waveform_3.png)
+  
   
